@@ -188,7 +188,7 @@ bool StartSelfSuspended(DWORD currentPID, PROCESS_INFORMATION& pi) {
         NULL,
         NULL,
         FALSE,
-        CREATE_NEW_PROCESS_GROUP | CREATE_SUSPENDED | CREATE_NEW_CONSOLE,
+        CREATE_SUSPENDED | CREATE_NEW_CONSOLE,
         NULL,
         NULL,
         &si,
