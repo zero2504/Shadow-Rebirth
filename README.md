@@ -274,4 +274,4 @@ As shadows fade and return with the changing light, so too does the application 
 [4] https://www.codeproject.com/
 
 
-If you have any suggestions for improvement or references I can add, please let me know.
+If you have any suggestions for improvement I can add, please let me know.
