@@ -50,6 +50,22 @@ Video:
 
 ![Anti-Debugging-Shadow-Rebirth](https://github.com/user-attachments/assets/4d2c1585-5a22-4731-9cb7-cfcf070d58c4)
 
+
+Extra:
+
+By the way, if the debugger was started with Elvated rights, the process that manages to break out will continue to live with these rights.
+
+![Admin1](https://github.com/user-attachments/assets/22f817ba-d4ee-4644-af77-decf6368569c)
+
+
+![Admin2](https://github.com/user-attachments/assets/7a95b6f0-23e5-4962-8a8d-4c9a67140e8f)
+
+
+![admin3](https://github.com/user-attachments/assets/8e2015bc-05e8-4180-997e-c2cd86b59cce)
+
+
+![admin4](https://github.com/user-attachments/assets/4fd7d642-090e-40f5-8dfc-80d7ac7a8a8d)
+
 ---
 
 ## Detailed Code Analysis
